@@ -1,0 +1,203 @@
+! 25 Sept 2024 https://wtf.porn
+wtf.porn##.table
+wtf.porn###list_videos_popular_videos > .box > .list-videos > .margin-fix
+
+||hermitcraft.com/content/img/hermitcraft-backgrounds/*.png
+
+! 26 Sept 2024 https://speedforcelk.wordpress.com
+speedforcelk.wordpress.com##.widget_eu_cookie_law_widget.widget
+
+||naiyous.com/wp-content/plugins/wp-snow-effect/public/js/wp-snow-effect-public.js$script
+||naiyous.com/wp-content/plugins/wp-snow-effect/public/js/jsnow.js$script
+||cdn.vidsrc.stream/disable-devtool@0.3.6/disable-devtool.min.js
+||https://cdn.vidsrc.stream/disable-devtool@0.3.6/disable-devtool.min.js
+
+! 13 Oct 2024 https://xhamster.com
+xhamster.com##.c69afe26
+
+! 16 Oct 2024 https://www.speedtest.net
+www.speedtest.net###onetrust-consent-sdk
+
+! 16 Oct 2024 https://dotnetfiddle.net
+dotnetfiddle.net###sponsor-1
+
+! 18 Oct 2024 https://www.youtube.com
+www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope
+
+! 18 Oct 2024 https://smutr.com
+||cbxyz.com/in/?tour=dTm0&campaign=L9gcd&track=smntvc&disable_sound=1&mobileRedirect=auto&embed_video_only=1$subdocument
+
+! 22 Oct 2024 https://theync.com
+||theync.com/templates/theync/images/noise.png$image
+||https://theync.com
+||theync.com
+
+
+! 27 Oct 2024 http://192.168.1.1
+192.168.1.1##body > button:nth-of-type(1)
+192.168.1.1##body > button:nth-of-type(2)
+
+! 27 Oct 2024 https://nunflix.org
+
+nunflix.org##iframe[src*="youtube.com"]
+
+||https://ww1.pornhoarder.tv/js/bundle.min.js?v=18599
+||https://pornhoarder.net/sw.js
+||pornhoarder.tv/js/bundle.min.js
+
+! 13 Nov 2024 https://pornhoarder.net
+||pornhoarder.net/sw.js$script,1p
+
+! 18 Nov 2024 https://www.speedtest.net
+www.speedtest.net##.eot-box-wrapper.pure-u-1
+
+! 20 Nov 2024 https://www.baiscope.lk
+||honeypotchecker.org/$subdocument
+
+! 22 Nov 2024 https://cinesubz.co
+||cdn.jsdelivr.net/npm/disable-devtool$script,domain=cinesubz.co
+
+! 27 Nov 2024 https://whoer.net
+whoer.net##.popup-counter-deal
+
+! 4 Dec 2024 https://dash.cloudflare.com
+dash.cloudflare.com##.c_wp.c_wo.c_wn.c_wm
+
+! 5 Dec 2024 https://dash.cloudflare.com
+dash.cloudflare.com##.c_wo.c_wn.c_wm.c_wl
+
+! 11 Dec 2024 https://cloud.olakrutrim.com
+cloud.olakrutrim.com##.z-\[10000\].bg-\[\#00000099\].justify-center.items-center.flex.inset-0.fixed
+
+! 17 Dec 2024 https://www.netflix.com
+www.netflix.com##.ltr-m1ta4i.medium
+www.netflix.com##.ltr-100d0a9 > .ltr-1npqywr > div.ltr-gpipej > div.ltr-1dcjcj4.medium > .ltr-1enhvti > .ltr-iyulz3.control-medium > svg
+
+! 20 Dec 2024 https://myslt.slt.lk
+||myslt.slt.lk/Logo.png$image,domain=myslt.slt.lk
+||myslt.slt.lk/favicon.ico$image,domain=myslt.slt.lk
+
+! 21 Dec 2024 https://tech.unblockedgames.world
+tech.unblockedgames.world##.my-4.py-4.text-center
+tech.unblockedgames.world##p
+tech.unblockedgames.world##a.dark\:hover\:bg-night-400.px-6.py-4.hover\:bg-gray-200.block
+tech.unblockedgames.world##h3
+
+! 24 Dec 2024 https://tech.unblockedgames.world
+tech.unblockedgames.world##.text-center.dark\:border-gray-500.border-gray-200.border-b.items-center.justify-between.lg\:flex.px-4.lg\:py-6.py-4.mx-auto.container
+tech.unblockedgames.world##.dark\:border-gray-500.border-gray-200.border-t.px-4.py-6.dark\:text-gray-200.text-gray-500.text-center.mx-auto.container
+tech.unblockedgames.world##.nav-links
+
+! 25 Dec 2024 https://libreddit.kavin.rocks
+libreddit.kavin.rocks##.stickied.post
+
+na.alienwarearena.com##iframe[src*="twitch.tv"]
+
+
+! 26 Dec 2024 https://www.youtube.com
+www.youtube.com###voice-search-button
+
+! 1 Jan 2025 https://rl.bloat.cat
+rl.bloat.cat##.stickied.post
+
+! 6 Jan 2025 https://web.whatsapp.com
+web.whatsapp.com###side > div:nth-of-type(4)
+
+! 7 Jan 2025 https://www.speedtest.cn
+www.speedtest.cn##.speed-activity481-wrap-index.speed-activity481-wrap
+
+! Disable text shadows on Youtube
+youtube.com##*:style(text-shadow: none !important)
+
+! Disable round corners on Youtube
+!  (caution, load animation is a square)
+!youtube.com##*:style(border-radius: 0px !important)
+
+! Disable round corners on Youtube videos
+!youtube.com###ytd-player.ytd-watch-flexy:style(border-radius: 0px !important)
+!youtube.com##ytd-watch-flexy:style(border-radius: 0px !important)
+
+! Disable round corners on Youtube previews
+youtube.com###thumbnail:style(border-radius: 0px !important)
+
+! 12 Jan 2025 https://app.neilpatel.com
+app.neilpatel.com##div.ReactModalPortal:nth-of-type(18)
+app.neilpatel.com##.ReactModal__Overlay--after-open.ReactModal__Overlay
+
+! 13 Jan 2025 https://www.crunchyroll.com
+www.crunchyroll.com##.broadcast-message--is-visible--ln--V.broadcast-message--sbAcy
+
+! 14 Jan 2025 https://www.vure.cx
+www.vure.cx##.required-alert
+
+! 14 Jan 2025 https://akile.io
+akile.io##div.arco-modal-container
+
+! 14 Jan 2025 https://dash.cloudflare.com
+dash.cloudflare.com##.c_jr.c_jq
+
+! 16 Jan 2025 https://www.pornhubpremium.com
+www.pornhubpremium.com##.bottomNotification
+
+crunchyroll.com##div[style*="background-image: linear-gradient"]:style(background-image: none !important;)
+static.crunchyroll.com###velocity-controls-package>div:empty
+
+
+||www.gstatic.com/firebasejs/11.0.1/firebase-messaging-compat.js
+||www.gstatic.com/firebasejs/11.0.1/firebase-app-compat.js
+||www.helakuru.lk/firebase-messaging-sw.js?ts=123
+||unpkg.com/@dotlottie/player-component@2.7.12/dist/chunk-ZWH2ESXT.mjs
+||unpkg.com/@dotlottie/player-component@2.7.12/dist/chunk-HDDX7F4A.mjs
+||unpkg.com/@dotlottie/player-component@2.7.12/dist/chunk-TRZ6EGBZ.mjs
+||unpkg.com/@dotlottie/player-component@2.7.12/dist/chunk-ODPU3M3Z.mjs
+||unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs
+||unpkg.com/wavesurfer.js@7.8.16/dist/wavesurfer.min.js
+||unpkg.com/wavesurfer.js@7.8.16
+||www.gstatic.com/recaptcha/releases/1Bq_oiMBd4XPUhKDwr0YL1Js/recaptcha__en.js
+||www.googletagmanager.com/gtag/js?id=UA-103229023-10
+||www.helakuru.lk/assets/js/PureSnow.js
+||www.helakuru.lk/assets/js/powerful-calendar/calendar.js?t=1737125067
+||unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs
+||www.helakuru.lk/assets/js/vendor/lottie.min.js
+||www.helakuru.lk/assets/js/vendor/moment.min.js
+||www.helakuru.lk/assets/js/ajax.min.1.0.0.js
+
+
+!||www.helakuru.lk/assets/js/env.js
+!||www.helakuru.lk/assets/js/bootstrap/bootstrap.min.js
+!||www.helakuru.lk/assets/js/evo-calendar.min.js
+!||www.helakuru.lk/assets/js/popper.js
+!||www.helakuru.lk/assets/js/jquery/jquery.js
+
+||www.helakuru.lk/assets/js/bootstrap/bootstrap.js
+||ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js
+
+||www.payhere.lk/lib/payhere-2.0.js
+||www.helakuru.lk/assets/js/vendor/sweetalert.js
+||www.google.com/recaptcha/api.js
+||www.helakuru.lk/assets/js/jquery/jquery-position.js
+||www.helakuru.lk/assets/js/jquery/jquery-context-menu.min.js
+||www.helakuru.lk/assets/js/jquery/jquery-color-animation.js
+
+||cdn.jsdelivr.net/npm/chart.js
+||cdn.jsdelivr.net/npm/axios/dist/axios.min.js
+||static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015
+
+!||www.helakuru.lk/assets/js/vendor/g-analytics.js
+
+
+
+! 21 Jan 2025 https://tech.unblockedgames.world
+tech.unblockedgames.world##.display-card-title
+tech.unblockedgames.world##.w-display-card-details
+tech.unblockedgames.world##.w-display-card-info
+
+! 23 Jan 2025 https://www.youtube.com
+www.youtube.com##yt-button-view-model.ytd-menu-renderer
+
+! 26 Jan 2025 https://translate.google.com
+translate.google.com##.pGxpHc
+translate.google.com##.VjFXz
+
+myslt.slt.lk##body:style(background-color: #181a1b !important;)
+myslt.slt.lk##nav:style(background-color: rgba(0, 0, 0, 0) !important; background-image: none !important; border-bottom-color: rgba(0, 109, 206, 0) !important;)
