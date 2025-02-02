@@ -201,3 +201,26 @@ translate.google.com##.VjFXz
 
 myslt.slt.lk##body:style(background-color: #181a1b !important;)
 myslt.slt.lk##nav:style(background-color: rgba(0, 0, 0, 0) !important; background-image: none !important; border-bottom-color: rgba(0, 109, 206, 0) !important;)
+myslt.slt.lk##.common-panel:style(background-color: #0b275100 !important;)
+myslt.slt.lk##.bbSubBody:style(background-color: #0000007d !important;)
+
+! 31 Jan 2025 https://myslt.slt.lk
+myslt.slt.lk##.banners > div
+
+! 2 Feb 2025 https://www.miruro.tv
+www.miruro.tv##.plyr__control--overlaid.plyr__control
+miruro.tv##.vds-captions { bottom: 15px !important; }
+miruro.tv##+js(css, .vds-captions, bottom: 15px !important;)
+
+miruro.tv##.plyr__captions { bottom: 20px !important; position: fixed !important; }
+miruro.tv##+js(css, .plyr__captions, bottom: 20px !important; position: fixed !important;)
+miruro.tv##.vds-slider { height: 4px !important; }
+miruro.tv##.vds-button { width: 24px !important; height: 24px !important; }
+miruro.tv##.vds-poster { display: none !important; }
+miruro.tv##.vds-play-button { background: none !important; }
+miruro.tv##.vds-media.paused { filter: none !important; backdrop-filter: none !important; }
+miruro.tv##.vds-poster { opacity: 0 !important; visibility: hidden !important; }
+miruro.tv##.vds-media.paused { filter: none !important; backdrop-filter: none !important; opacity: 1 !important; }
+miruro.tv##.vds-controls { background: transparent !important; }
+miruro.tv##.vds-player { background: transparent !important; }
+
