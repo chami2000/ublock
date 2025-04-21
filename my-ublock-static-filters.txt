@@ -224,3 +224,95 @@ miruro.tv##.vds-media.paused { filter: none !important; backdrop-filter: none !i
 miruro.tv##.vds-controls { background: transparent !important; }
 miruro.tv##.vds-player { background: transparent !important; }
 
+! Do block ads  
+adblock coard  
+
+! Do block ads  
+adblock coard  
+
+! 2 Feb 2025 - Modify video player on miruro.tv  
+
+! Remove overlaid play button  
+www.miruro.tv##.plyr__control--overlaid.plyr__control  
+! Adjust caption position  
+miruro.tv##.vds-captions { bottom: 10px !important; }  
+miruro.tv##+js(css, .vds-captions, bottom: 10px !important;)  
+! Fix plyr captions position  
+miruro.tv##.plyr__captions { bottom: 10px !important; position: fixed !important; }  
+miruro.tv##+js(css, .plyr__captions, bottom: 10px !important; position: fixed !important;)  
+! Reduce height of progress bar  
+miruro.tv##.vds-slider { height: 4px !important; }  
+! Resize player buttons  
+miruro.tv##.vds-button { width: 24px !important; height: 24px !important; }  
+! Hide video thumbnail/poster  
+miruro.tv##.vds-poster { display: none !important; }  
+! Remove background from play button  
+miruro.tv##.vds-play-button { background: none !important; }  
+! Remove pause blur effect  
+miruro.tv##.vds-media.paused { filter: none !important; backdrop-filter: none !important; opacity: 1 !important; }  
+! Ensure poster is hidden  
+miruro.tv##.vds-poster { opacity: 0 !important; visibility: hidden !important; }  
+! Make video controls transparent  
+miruro.tv##.vds-controls { background: transparent !important; }  
+! Make player background transparent  
+miruro.tv##.vds-player { background: transparent !important; }  
+! Make button blue
+miruro.tv##.vds-button { color: #007BFF !important; fill: #007BFF !important; }
+
+miruro.tv##.vds-captions { text-align: left !important; }
+
+! 4 Feb 2025 https://m.classicoder.com
+m.classicoder.com###mxlnewhmowzjavjpceppdlbcudbmeuhjtmntsffzcvfqiwdfhreubzdbjil
+
+! 7 Feb 2025 https://kodibeginner.com
+kodibeginner.com##.wuphdulrdfrtnwoakpzynhdrkcyyjqvamozyffsmltqvoywwvabjyrutidtqe.sgxwnnzwwkxsjfmngjwtllvetvuvnodlkyjbuutkwddiunaytindidtqe
+
+##.jw-overlay
+##.jw-overlay-backdrop
+
+! 11 Feb 2025 https://ap.lk
+ap.lk##.no-arrow.dropdown.topprofiler.nav-item
+
+! 18 Mar 2025 https://www.washingtonpost.com
+www.washingtonpost.com##.bg-white.hide-for-print.justify-center.flex.overflow-hidden.border-box.w-100.left-0.bottom-0.fixed
+www.washingtonpost.com##.regwall-overlay.bg-black.w-100.h-100.o-50.fixed.right-0.bottom-0
+
+! 18 Mar 2025 http://192.168.1.1
+||192.168.1.1/images/customer.gif$image
+
+! 26 Mar 2025 https://dash.cloudflare.com
+dash.cloudflare.com##.c_ju.c_jt
+dash.cloudflare.com##.c_ns.c_nr
+
+! 26 Mar 2025 https://www.itdog.cn
+www.itdog.cn##.top_pic_ad.gg_link
+
+www.itdog.cn##.ad_tip
+
+www.itdog.cn##span.ad_tip
+www.itdog.cn##.lantern.lantern_left.gg_link
+www.itdog.cn##.gg_link.col-12
+||www.itdog.cn/upload/images/20231023230235_692.gif$image
+
+! Apr 5, 2025 https://wispbyte.com
+wispbyte.com##div#bottomleftoffer.bottom-left-offer:nth-of-type(4)
+
+! Block the ad detection script
+||qu.ax/UXlFe.js
+
+! Apr 10, 2025 https://swyplay.com
+swyplay.com##.adb
+
+! Apr 15, 2025 https://pstream.org
+||files.waifu.cat/68e29533.gif$image
+
+! Apr 19, 2025 https://www.nslookup.io
+www.nslookup.io##.text-white.bg-\[\#390261\].justify-center.items-center.flex
+
+! Apr 21, 2025 https://anime.nexus
+!anime.nexus###media-player\:998f3c12-e31e-417a-b9ed-7d78ddd7efe5 > div:nth-of-type(1)
+!anime.nexus##.data-\[focus\]\:ring-4.ring-media-focus.font-sans.text-white.h-screen.w-full
+
+! Apr 22, 2025 https://anime.nexus
+anime.nexus##div.bg-black\/40.media-preview\:opacity-0.absolute.bottom-0.inset-0.z-\[8\].select-none.break-words.opacity-0.transition-\[opacity\].duration-300.pointer-events-none.media-paused\:opacity-100
+
