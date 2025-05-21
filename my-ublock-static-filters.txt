@@ -316,3 +316,73 @@ www.nslookup.io##.text-white.bg-\[\#390261\].justify-center.items-center.flex
 ! Apr 22, 2025 https://anime.nexus
 anime.nexus##div.bg-black\/40.media-preview\:opacity-0.absolute.bottom-0.inset-0.z-\[8\].select-none.break-words.opacity-0.transition-\[opacity\].duration-300.pointer-events-none.media-paused\:opacity-100
 
+! Apr 25, 2025 https://3minx.com
+3minx.com###protection
+
+! Apr 25, 2025 https://xcamcovid.com
+xcamcovid.com###protection
+
+! Apr 25, 2025 https://fc2ppv.stream
+fc2ppv.stream##.protection-inner
+
+! Apr 25, 2025 https://javsunday.com
+javsunday.com###protection
+javsunday.com###overview_list
+
+! Apr 25, 2025 https://javring.com
+javring.com###protection
+
+! Apr 29, 2025 https://kin8-av.com
+kin8-av.com###protection
+
+! Apr 29, 2025 https://blackwidof.org
+blackwidof.org###protection
+
+! Apr 30, 2025 https://mail.lkkk.eu.org
+mail.lkkk.eu.org##div.n-menu-item:nth-of-type(4)
+mail.lkkk.eu.org##div.n-menu-item:nth-of-type(5)
+mail.lkkk.eu.org##.n-page-header__title
+
+! May 7, 2025 https://image.javbee.vip
+image.javbee.vip###protection
+image.javbee.vip###overview_list
+
+! May 7, 2025 https://javtele.net
+javtele.net###protection
+
+! May 8, 2025 https://anime.nexus
+anime.nexus##.transition-opacity.opacity-0.to-transparent.from-black\/10.bg-gradient-to-t.flex-col.w-full.h-full.flex.z-10.inset-0.absolute.media-controls\:opacity-100.video-layout_controls__ub4x5
+
+! May 10, 2025 https://porn4f.org
+porn4f.org###protection
+
+! May 10, 2025 https://555fap.com
+555fap.com###protection
+
+! May 13, 2025 https://dash.cloudflare.com
+dash.cloudflare.com###account-marketing-banner-header-notification-container
+
+||www.facebook.com
+||www.reddit.com
+||elakiri.com
+
+! May 13, 2025 https://pstream.org
+pstream.org##.pb-4.group.relative.mx-auto.max-w-\[16rem\].w-fit.md\:-mb-20.-mb-10
+
+! May 14, 2025 https://public.sqrx.com
+public.sqrx.com##.bg-dark-500.justify-center.items-center.w-full.flex.mt-5.bottom-0.fixed
+
+! May 14, 2025 https://ap.lk
+ap.lk##canvas
+
+! May 17, 2025 https://pstream.org
+pstream.org##.pb-4.group.relative.mx-auto.max-w-\[32rem\].w-fit.md\:-mb-20.-mb-10
+
+! May 20, 2025 https://porn-pig.com
+porn-pig.com###protection
+
+! May 21, 2025 https://kin8-jav.com
+kin8-jav.com###protection
+
+! May 21, 2025 https://jobqwe.com
+jobqwe.com##.adb
